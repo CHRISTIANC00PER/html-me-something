@@ -8,3 +8,69 @@ h2{
 	font-size: 50px;
 	text-align: center;
 }
+
+nav{
+	float: center;
+	margin: 10px;
+	padding: 10px;
+}
+
+main{
+	float: center;
+	text-align: center;
+}
+
+section{
+	margin-bottom: 50px;
+}
+
+.project_title{
+	margin-top: 5px;
+	margin-bottom: 30px;
+	color: green;
+	font-size: 30px;
+}
+
+img{
+	width: 45%;
+	height: 45%;
+	margin: 10px;
+	margin-bottom: 5px;
+	border: 2px solid lightgrey;
+}
+
+#animals{
+	margin-top: 50px;
+}
+
+#aok{
+	border: 2px solid lightpurple;
+}
+
+#axecop{
+	border: 2px solid lightblue;
+}
+
+#bio{
+	border: 5px solid green;
+	text-align: center;
+	background-color: lightgreen;
+	padding: 20px;
+}
+
+p{
+	font-size: 17px;
+}
+
+#biopic{
+	width: 25%;
+	height: 25%;
+	float: center;
+}
+
+footer{
+	text-align: center;
+	background-color: lightgreen;
+	padding: 50px;
+	margin-top: 50px;
+}
